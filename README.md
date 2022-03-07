@@ -28,13 +28,13 @@
 
 <div align="center"> 
   
-- 🌱 I’m currently learning **DynamoDB, Athena, SQS, Lambdas**
+🌱 I’m currently learning **DynamoDB, Athena, SQS, Lambdas**
 
-- 👨‍💻 All of my projects are available at [https://debora.netlify.app/](https://debora.netlify.app/)
+👨‍💻 All of my projects are available at [https://debora.netlify.app/](https://debora.netlify.app/)
 
-- 💬 Ask me about **react, angular, c#, mysql**
+💬 Ask me about **react, angular, c#, mysql**
 
-- 📫 How to reach me **deboraleticiaferreiramaciel@gmail.com**
+📫 How to reach me **deboraleticiaferreiramaciel@gmail.com**
 
 </div>
 

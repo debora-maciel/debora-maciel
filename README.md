@@ -15,6 +15,8 @@
  <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trxuxv&show_icons=true&locale=en" alt="trxuxv" />
   </p>
+  
+  <hr>
 
 <p align="left"> 
   <a href="https://twitter.com/trxuxv" target="blank"><img src="https://img.shields.io/twitter/follow/trxuxv?logo=twitter&style=for-the-badge" alt="trxuxv" />

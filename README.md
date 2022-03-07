@@ -26,6 +26,7 @@
 
 
 
+<p align="center"> 
 - 🌱 I’m currently learning **DynamoDB, Athena, SQS, Lambdas**
 
 - 👨‍💻 All of my projects are available at [https://debora.netlify.app/](https://debora.netlify.app/)
@@ -33,6 +34,7 @@
 - 💬 Ask me about **react, angular, c#, mysql**
 
 - 📫 How to reach me **deboraleticiaferreiramaciel@gmail.com**
+</p>
 
 <hr>
 <h3 align="center">Connect with me:</h3>

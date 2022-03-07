@@ -102,7 +102,7 @@
 <hr>
 <h3 align="center">Trxuxv's Stats:</h3>
   <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trxuxv&show_icons=true&locale=en&layout=compact" alt="trxuxv" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trxuxv&show_icons=true&locale=en" alt="trxuxv" />
   </p>
 <br><br><br><br><br><br><br>
 <p align="left">

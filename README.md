@@ -12,7 +12,10 @@
 </p>
 
 <hr>
-<p align="left"> <a href="https://twitter.com/trxuxv" target="blank"><img src="https://img.shields.io/twitter/follow/trxuxv?logo=twitter&style=for-the-badge" alt="trxuxv" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/trxuxv" target="blank"><img src="https://img.shields.io/twitter/follow/trxuxv?logo=twitter&style=for-the-badge" alt="trxuxv" />
+  </a> 
+</p>
 
 
 

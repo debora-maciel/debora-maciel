@@ -105,10 +105,10 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trxuxv&show_icons=true&locale=en&layout=compact" alt="trxuxv" />
   </p>
 <br><br><br><br><br><br><br>
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=trxuxv&show_icons=true&locale=en" alt="trxuxv" />
 </p>
 
-<p align="center">
+<p align="right">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trxuxv&" alt="trxuxv" />
 </p>

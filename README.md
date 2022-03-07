@@ -34,6 +34,7 @@
 - 💬 Ask me about **react, angular, c#, mysql**
 
 - 📫 How to reach me **deboraleticiaferreiramaciel@gmail.com**
+
 </p>
 
 <hr>

@@ -107,8 +107,6 @@
 <br><br><br><br><br><br><br>
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=trxuxv&show_icons=true&locale=en" alt="trxuxv" />
-</p>
 
-<p align="right">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trxuxv&" alt="trxuxv" />
 </p>

@@ -99,6 +99,8 @@
   </a> 
 </p>
 
+<hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trxuxv&show_icons=true&locale=en&layout=compact" alt="trxuxv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trxuxv&show_icons=true&locale=en" alt="trxuxv" /></p>

@@ -101,7 +101,7 @@
 
 <hr>
 <h3 align="center">Trxuxv's Stats:</h3>
-<div width="400">
+<div width="10000">
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trxuxv&show_icons=true&locale=en&layout=compact" alt="trxuxv" />
   </p>

@@ -101,11 +101,11 @@
 
 <hr>
 <h3 align="center">Trxuxv's Stats:</h3>
-  <p>
+  <p align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trxuxv&show_icons=true&locale=en&layout=compact" alt="trxuxv" />
   </p>
 <br><br><br><br><br><br><br>
-<p>&nbsp;
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=trxuxv&show_icons=true&locale=en" alt="trxuxv" />
 </p>
 

@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **DynamoDB, Athena, SQS, Lambdas**
 
-- 👨‍💻 All of my projects are available at [debora.netlify.app](debora.netlify.app)
+- 👨‍💻 All of my projects are available at [https://debora.netlify.app/](https://debora.netlify.app/)
 
 - 💬 Ask me about **react, angular, c#, mysql**
 

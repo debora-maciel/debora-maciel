@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <a>
-    <img width="300px" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" />
+    <img width="600px" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" />
   </a> 
 </p>
 

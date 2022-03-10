@@ -22,6 +22,8 @@
 <p align="center"> 
   <a href="https://twitter.com/trxuxv" target="blank"><img src="https://img.shields.io/twitter/follow/trxuxv?logo=twitter&style=for-the-badge" alt="trxuxv" />
   </a> 
+    <a href="https://instagram.com/trxuxv" target="blank"><img src="https://img.shields.io/instagram/follow/trxuxv?logo=instagram&style=for-the-badge" alt="trxuxv" />
+  </a> 
 </p>
 
 

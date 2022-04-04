@@ -14,6 +14,7 @@
 <hr>
 <h3 align="center">Interesting sites</h3>
 Pfp Maker: https://pfpmaker.com/
+Javascript exercises: https://gustavoguanabara.github.io/javascript/exercicios/
 
 <hr>
 <h3 align="center">Most used technologies</h3>

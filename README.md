@@ -13,7 +13,7 @@
 
 <hr>
 <h3 align="center">Interesting sites</h3>
-Pfp Maker: https://pfpmaker.com/
+Pfp Maker: https://pfpmaker.com/ <br>
 Javascript exercises: https://gustavoguanabara.github.io/javascript/exercicios/
 
 <hr>

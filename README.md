@@ -14,7 +14,7 @@
 <hr>
 <h3 align="center">Interesting sites</h3>
 <br>
-Pfp Maker: https://pfpmaker.com/results
+Pfp Maker: https://pfpmaker.com/
 
 <hr>
 <h3 align="center">Most used technologies</h3>

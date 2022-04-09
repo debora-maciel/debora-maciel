@@ -17,6 +17,7 @@ Pfp Maker: https://pfpmaker.com/ <br>
 Javascript exercises: https://gustavoguanabara.github.io/javascript/exercicios/ <br>
 Tailwind: sroll snap align: https://tailwindcss.com/docs/scroll-snap-align#snapping-to-the-center <br>
 Javascript array methods: https://www.javascripttutorial.net/javascript-array-methods/ <br>
+Button generator: https://markodenic.com/tools/buttons-generator/
 
 
 

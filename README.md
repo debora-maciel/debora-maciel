@@ -19,6 +19,7 @@ Tailwind: sroll snap align: https://tailwindcss.com/docs/scroll-snap-align#snapp
 Javascript array methods: https://www.javascripttutorial.net/javascript-array-methods/ <br>
 Button generator: https://markodenic.com/tools/buttons-generator/ <br>
 Menus: https://freefrontend.com/html-menu-with-javascript/ <br>
+Tailwind Component: https://tailwindcomponents.com/component/todo-list <br>
 
 
 

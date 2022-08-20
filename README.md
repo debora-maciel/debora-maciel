@@ -22,7 +22,7 @@ Menus: https://freefrontend.com/html-menu-with-javascript/ <br>
 Tailwind Component: https://tailwindcomponents.com/component/todo-list <br>
 Mundial internet cables : https://www.submarinecablemap.com/ <br>
 Themes Visual Studio 2022:  https://devblogs.microsoft.com/visualstudio/custom-themes/ <br>
-
+SVGS Vectors : https://www.freepik.com/search?format=search&query=countries <br>
 
 
 <hr>

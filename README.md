@@ -33,6 +33,10 @@ Essential JS2: https://ej2.syncfusion.com/home/vue.html <br>
 Hover Buttons CSS: https://ianlunn.github.io/Hover/ <br>
 GitHub profile maker: https://rahuldkjain.github.io/gh-profile-readme-generator/ <br>
 FreeFrontEnd Menus: https://freefrontend.com/css-menu/ <br>
+HTML Cheat Sheet: https://htmlcheatsheet.com/ <br>
+Fetch Json Data ReactJS: https://www.pluralsight.com/guides/fetch-data-from-a-json-file-in-a-react-app <br>
+Tailwind Css Caroucels: https://tailwinduikit.com/components/E-commerce/Components/carousels <br>
+Swagger UI (Fake Api): https://fakerestapi.azurewebsites.net/index.html
 
 
 <hr>

@@ -36,7 +36,8 @@ FreeFrontEnd Menus: https://freefrontend.com/css-menu/ <br>
 HTML Cheat Sheet: https://htmlcheatsheet.com/ <br>
 Fetch Json Data ReactJS: https://www.pluralsight.com/guides/fetch-data-from-a-json-file-in-a-react-app <br>
 Tailwind Css Caroucels: https://tailwinduikit.com/components/E-commerce/Components/carousels <br>
-Swagger UI (Fake Api): https://fakerestapi.azurewebsites.net/index.html
+Swagger UI (Fake Api): https://fakerestapi.azurewebsites.net/index.html <br>
+JSON Formatter: https://www.freeformatter.com/json-escape.html 
 
 
 <hr>

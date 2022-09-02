@@ -24,6 +24,7 @@ Mundial internet cables : https://www.submarinecablemap.com/ <br>
 Themes Visual Studio 2022:  https://devblogs.microsoft.com/visualstudio/custom-themes/ <br>
 SVGS Vectors : https://www.freepik.com/search?format=search&query=countries <br>
 Envato Vectors: https://elements.envato.com/graphics/management/properties-vector <br>
+Angular Bootstrap: https://mdbootstrap.com/docs/angular/extended/search/ <br>
 
 
 <hr>

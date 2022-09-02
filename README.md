@@ -25,7 +25,7 @@ Themes Visual Studio 2022:  https://devblogs.microsoft.com/visualstudio/custom-t
 SVGS Vectors : https://www.freepik.com/search?format=search&query=countries <br>
 Envato Vectors: https://elements.envato.com/graphics/management/properties-vector <br>
 Angular Bootstrap: https://mdbootstrap.com/docs/angular/extended/search/ <br>
-
+Angular Generate QR Code: https://www.freecodecamp.org/news/generate-qr-codes-in-angular-10/ <br>
 
 <hr>
 <h3 align="center">Most used technologies</h3>

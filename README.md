@@ -26,6 +26,14 @@ SVGS Vectors : https://www.freepik.com/search?format=search&query=countries <br>
 Envato Vectors: https://elements.envato.com/graphics/management/properties-vector <br>
 Angular Bootstrap: https://mdbootstrap.com/docs/angular/extended/search/ <br>
 Angular Generate QR Code: https://www.freecodecamp.org/news/generate-qr-codes-in-angular-10/ <br>
+Important Git Commands: https://gist.github.com/leocomelli/2545add34e4fec21ec16 <br>
+Angular Reactive search: https://puneetpalkaur.medium.com/how-to-create-a-search-filter-in-angular-2c03503e702d <br>
+CSS Flexbox: https://tobiasahlin.com/blog/common-flexbox-patterns/ <br>
+Essential JS2: https://ej2.syncfusion.com/home/vue.html <br>
+Hover Buttons CSS: https://ianlunn.github.io/Hover/ <br>
+GitHub profile maker: https://rahuldkjain.github.io/gh-profile-readme-generator/ <br>
+FreeFrontEnd Menus: https://freefrontend.com/css-menu/ <br>
+
 
 <hr>
 <h3 align="center">Most used technologies</h3>

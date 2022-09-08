@@ -11,6 +11,9 @@
   </a> 
 </p>
 
+<h2>To study:</h2>
+MQTT
+
 <hr>
 <h3 align="center">Interesting sites</h3>
 Pfp Maker: https://pfpmaker.com/ <br>

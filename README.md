@@ -16,6 +16,7 @@ MQTT
 
 <hr>
 <h3 align="center">Interesting sites</h3>
+Modal animations: https://codepen.io/designcouch/pen/obvKxm <br>
 Pfp Maker: https://pfpmaker.com/ <br>
 Javascript exercises: https://gustavoguanabara.github.io/javascript/exercicios/ <br>
 Tailwind: sroll snap align: https://tailwindcss.com/docs/scroll-snap-align#snapping-to-the-center <br>

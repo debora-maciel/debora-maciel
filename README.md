@@ -12,7 +12,8 @@
 </p>
 
 <h2>To study:</h2>
-MQTT
+MQTT <br>
+EC2 <br>
 
 <hr>
 <h3 align="center">Interesting sites</h3>

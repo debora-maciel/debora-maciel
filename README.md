@@ -17,6 +17,7 @@ EC2 <br>
 
 <hr>
 <h3 align="center">Interesting sites</h3>
+Drag Div: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_draggable <br>
 UnDraw Vectors: https://undraw.co/ <br>
 Modal animations: https://codepen.io/designcouch/pen/obvKxm <br>
 Pfp Maker: https://pfpmaker.com/ <br>

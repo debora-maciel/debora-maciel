@@ -17,6 +17,7 @@ EC2 <br>
 
 <hr>
 <h3 align="center">Interesting sites</h3>
+UI UX Quizz: https://10ideesrecuesenuxdesign.castoretpollux.com/en/ <br>
 Read me maker: https://readme.so/editor <br>
 Install tailwindCss in angular SCSS: https://dev.to/angular/setup-tailwindcss-in-angular-the-easy-way-1i5l<br>
 Watch star wars in cmd: https://youtu.be/sp67B8Qe6LU <br>

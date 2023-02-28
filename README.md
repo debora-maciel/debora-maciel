@@ -17,6 +17,7 @@ EC2 <br>
 
 <hr>
 <h3 align="center">Interesting sites</h3>
+Box shadows CSS: https://getcssscan.com/css-box-shadow-examples <br>
 Transitions CSS: https://www.joshwcomeau.com/animation/css-transitions/ <br>
 UI UX Quizz: https://10ideesrecuesenuxdesign.castoretpollux.com/en/ <br>
 Read me maker: https://readme.so/editor <br>

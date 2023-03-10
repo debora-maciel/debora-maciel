@@ -12,7 +12,7 @@
 </p>
 
 <h2 align="center">To study:</h2>
-<b align="center">MQTT</b> <br>
+<p align="center"><b>MQTT</b> </p>
 <b align="center">EC2 </b><br>
 <b align="center"> Electron</b><br>
 <b align="center"> Pseudo Elements CSS </b> <br>

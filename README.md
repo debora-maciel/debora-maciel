@@ -13,9 +13,9 @@
 
 <h2 align="center">To study:</h2>
 <p align="center"><b>MQTT</b> </p>
-<b align="center">EC2 </b><br>
-<b align="center"> Electron</b><br>
-<b align="center"> Pseudo Elements CSS </b> <br>
+<p align="center"><b>EC2</b> </p>
+<p align="center"><b>Electron</b> </p>
+<p align="center"><b>Pseudo Elements CSS</b> </p>
 
 <hr>
 <h3 align="center">Interesting sites</h3>

@@ -19,6 +19,8 @@
 
 <hr>
 <h3 align="center">Interesting sites</h3>
+
+Icons Lucide (made by comunity):https://lucide.dev/icon/bird <br> 
 Box shadows CSS: https://getcssscan.com/css-box-shadow-examples <br>
 Transitions CSS: https://www.joshwcomeau.com/animation/css-transitions/ <br>
 UI UX Quizz: https://10ideesrecuesenuxdesign.castoretpollux.com/en/ <br>

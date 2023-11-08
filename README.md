@@ -21,6 +21,7 @@
 <h3 align="center">Interesting sites</h3>
 
 **Creating .NET-React-Typescript**: https://www.nolanbradshaw.ca/net-react-typescript-template <br>
+**Creating .NET-React-Typescript V2**: https://kenny-designs.github.io/articles/2022-06-05-csharp-react-typescript-tutorial.html <br>
 Conection with DataBase: https://www.youtube.com/watch?v=R-dUb-DBd78 <br>
 Icons Lucide (made by comunity):https://lucide.dev/icon/bird <br> 
 Box shadows CSS: https://getcssscan.com/css-box-shadow-examples <br>
